@@ -9,3 +9,11 @@ Inspiration for the keyboard was taken from these keyboards:
 - [Dao chok BLE](https://github.com/yumagulovrn/dao-choc-ble) by [rafael](https://github.com/yumagulovrn) - components pcb
 - [Corne-ish Zen](https://lowprokb.ca/products/corne-ish-zen) by [DarrylDH](https://github.com/LOWPROKB) - the idea to create a beautiful case
 - [Cornelius](https://geekhack.org/index.php?topic=109741.0) by [foostan](https://github.com/foostan) - keyboard view
+
+## Features
+
+- Hotswapabble
+- ZMK firmware
+- Low profile
+- Top mount
+- Choc Spacing (18mm x 17mm)
