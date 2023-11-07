@@ -2,4 +2,4 @@
 
 ## PCB
 
-Gerbers - https://github.com/Mposiblee/Zireael/releases/tag/Gerbers
+Gerbers and BOM/PCS - https://github.com/Mposiblee/Zireael/releases/tag/Gerbers
