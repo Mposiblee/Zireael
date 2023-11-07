@@ -22,3 +22,7 @@ Inspiration for the keyboard was taken from these keyboards:
 
 Latest compiled ZMK firmware for this keyboard can be found here: -------
 Source Code: -------
+
+
+## Build guide
+
