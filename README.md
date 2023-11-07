@@ -1,4 +1,4 @@
 # Zireael keyboard
 
-[![Zireael](src="https://s.imgur.com/min/px.js?ch=1")](src="https://s.imgur.com/min/px.js?ch=1")
+[![Zireael](https://s.imgur.com/min/px.js?ch=1)](https://s.imgur.com/min/px.js?ch=1)
 
