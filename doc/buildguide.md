@@ -1,5 +1,7 @@
 ## Build Guide
 
-## PCB
+## Order PCB
 
-Gerbers and BOM/PCS - https://github.com/Mposiblee/Zireael/releases/tag/Gerbers
+You can download the latest version production files from [here](https://github.com/Mposiblee/Zireael/releases/tag/Gerbers)
+
+
