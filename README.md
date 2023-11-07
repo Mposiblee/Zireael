@@ -26,3 +26,4 @@ Source Code: -------
 
 ## Build guide
 
+https://github.com/Mposiblee/Zireael/blob/main/doc/buildguide.md
