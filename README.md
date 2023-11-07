@@ -1,3 +1,3 @@
 # Zireael keyboard
 
-![Dao Shield](photos/1.JPG)
+![Dao Shield](photos/1.jpg)
