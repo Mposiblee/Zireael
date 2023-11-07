@@ -21,6 +21,7 @@ Inspiration for the keyboard was taken from these keyboards:
 ## Firmware
 
 Latest compiled ZMK firmware for this keyboard can be found here: https://github.com/Mposiblee/dao-zmk-config/releases/tag/uf2
+
 Source Code: https://github.com/Mposiblee/dao-zmk-config
 
 
