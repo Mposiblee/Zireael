@@ -49,6 +49,7 @@ All files are uploaded to the [JLCPCB](https://jlcpcb.com/) without any problems
 | Name                           | Qty  | AliExpress                                                                                                                                                 |
 |--------------------------------|------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | LiPo Battery 502020            |    2 | [Global - 2 pcs](https://aliexpress.ru/item/1005004771463980.html) [RU - 1 pcs](https://www.chipdip.ru/product/robiton-lp502020) |
+| Insert screw M2(OD3.5mm) L 2mm |   10 | [Global - 2 pcs](https://aliexpress.ru/item/1005006261832275.html)                                                                                         |
 | Standoff ----------            |   10 | [M2x5mm - 20 pcs](https://aliexpress.com/item/32597776358.html?sku_id=67114100494)                                                                         |
 | Standoff ----------            |    6 | [M2x8mm - 20 pcs](https://aliexpress.com/item/32597776358.html?sku_id=67114100497)                                                                         |
 | Screw -------------            |   32 | [Black M2x4mm - 50 pcs](https://aliexpress.com/item/32806166548.html?sku_id=66702152887)                                                                   |
