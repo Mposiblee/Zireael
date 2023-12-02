@@ -58,8 +58,10 @@ All files are uploaded to the [JLCPCB](https://jlcpcb.com/) without any problems
 ## Assemble your case
 
 First, you need to solder the screw insert with a soldering iron.
-![screw insert](photos/2.jpg)
+![screw_insert](https://github.com/Mposiblee/Zireael/assets/99890183/998dd3f0-7617-4cba-80d1-c7e5834bec5d)
 
 Next, put the shield and tighten it
-![Zireael](Zireael/photos/3.jpg)
-![Zireael](photos/4.jpg)
+![3](https://github.com/Mposiblee/Zireael/assets/99890183/90c750b3-12d6-40f5-9483-75e9ea3e1ec5)
+![4](https://github.com/Mposiblee/Zireael/assets/99890183/f309f3cb-689a-48cd-a7f3-54ea0a773cb5)
+
+
