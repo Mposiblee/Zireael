@@ -57,10 +57,40 @@ All files are uploaded to the [JLCPCB](https://jlcpcb.com/) without any problems
 
 ## Assemble your case
 
-First, you need to solder the screw insert with a soldering iron.
+### First, you need to solder the screw insert with a soldering iron.
+
 ![2](https://github.com/Mposiblee/Zireael/assets/99890183/c5445eac-79a9-4191-833b-2f2d1a66e564)
 
 
-Next, put the shield and tighten it
+### Next, put the shield and tighten it.
+
 ![3](https://github.com/Mposiblee/Zireael/assets/99890183/b8639449-11dd-455e-b696-9f8ee31b1348)
 ![4](https://github.com/Mposiblee/Zireael/assets/99890183/0596e70e-b59e-4f7e-900c-0d48f61d0e83)
+
+### Insert all the switches into the plate.
+
+![6](https://github.com/Mposiblee/Zireael/assets/99890183/5c76e11d-b856-4adf-aab3-8f0c488440e8)
+
+### After that, insert the switches plate plate into the pcb.
+
+![11](https://github.com/Mposiblee/Zireael/assets/99890183/58861f82-4210-42f5-a6e7-718750093bd2)
+
+### Put the switches in the case.
+
+![5](https://github.com/Mposiblee/Zireael/assets/99890183/b3483d40-0c6f-4eba-86b6-c61a998300c5)
+
+### Place the pcb carefully in the case, placing the power button on top, and also monitor the location of the type c port.
+
+![7](https://github.com/Mposiblee/Zireael/assets/99890183/22a09637-00df-4edc-b895-61cbd0b8ca71)
+
+###  First, tighten all the screws by half. After making sure that the pcb is positioned exactly, tighten all the screws to the end.
+
+![8](https://github.com/Mposiblee/Zireael/assets/99890183/cdaaa58c-e02c-4d45-9d00-1b635c4df831)
+
+### Close the bottom and tighten the screws.
+
+![9](https://github.com/Mposiblee/Zireael/assets/99890183/366d8f4e-f7dc-4710-bfd5-d16e8f3107b6)
+
+### The case is assembled
+
+![10](https://github.com/Mposiblee/Zireael/assets/99890183/4f9de53d-6efb-436e-bbba-a317491185fe)
