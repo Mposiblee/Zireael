@@ -58,6 +58,8 @@ All files are uploaded to the [JLCPCB](https://jlcpcb.com/) without any problems
 ## Assemble your case
 
 First, you need to solder the screw insert with a soldering iron.
+![Uploading 2.jpg…]()
+
 ![screw insert](photos/2.jpg)
 
 Next, put the shield and tighten it
