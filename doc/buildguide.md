@@ -61,8 +61,6 @@ First, you need to solder the screw insert with a soldering iron.
 ![2](https://github.com/Mposiblee/Zireael/assets/99890183/c5445eac-79a9-4191-833b-2f2d1a66e564)
 
 
-![screw insert](photos/2.jpg)
-
 Next, put the shield and tighten it
-![Zireael](Zireael/photos/3.jpg)
-![Zireael](photos/4.jpg)
+![3](https://github.com/Mposiblee/Zireael/assets/99890183/b8639449-11dd-455e-b696-9f8ee31b1348)
+![4](https://github.com/Mposiblee/Zireael/assets/99890183/0596e70e-b59e-4f7e-900c-0d48f61d0e83)
