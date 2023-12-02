@@ -20,9 +20,9 @@ Inspiration for the keyboard was taken from these keyboards:
 
 ## Firmware
 
-Latest compiled ZMK firmware for this keyboard can be found here: https://github.com/Mposiblee/dao-zmk-config/releases/tag/uf2
+Latest compiled ZMK firmware for this keyboard can be found here: [https://github.com/Mposiblee/dao-zmk-config/releases/tag/uf2](https://github.com/Mposiblee/zireael-zmk-config/releases/tag/firmware)
 
-Source Code: [zireael-zmk-config](https://github.com/Mposiblee/zireael-zmk-config)
+Source Code: https://github.com/Mposiblee/zireael-zmk-config
 
 
 ## Build guide
