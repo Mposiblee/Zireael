@@ -53,3 +53,7 @@ All files are uploaded to the [JLCPCB](https://jlcpcb.com/) without any problems
 | Standoff ----------            |    6 | [M2x8mm - 20 pcs](https://aliexpress.com/item/32597776358.html?sku_id=67114100497)                                                                         |
 | Screw -------------            |   32 | [Black M2x4mm - 50 pcs](https://aliexpress.com/item/32806166548.html?sku_id=66702152887)                                                                   |
 | Silicone Bumpers               | 8-10 | [100 pcs](https://aliexpress.com/item/32912066603.html)                                                                                                    |
+
+
+## Assemble your case
+
