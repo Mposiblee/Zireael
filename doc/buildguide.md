@@ -61,5 +61,5 @@ First, you need to solder the screw insert with a soldering iron.
 ![screw insert](photos/2.jpg)
 
 Next, put the shield and tighten it
-![Zireael](Zireaek/photos/3.jpg)
+![Zireael](Zireael/photos/3.jpg)
 ![Zireael](photos/4.jpg)
