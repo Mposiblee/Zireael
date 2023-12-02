@@ -58,6 +58,7 @@ All files are uploaded to the [JLCPCB](https://jlcpcb.com/) without any problems
 ## Assemble your case
 
 First, you need to solder the screw insert with a soldering iron.
+![2](https://github.com/Mposiblee/Zireael/assets/99890183/c5445eac-79a9-4191-833b-2f2d1a66e564)
 
 
 ![screw insert](photos/2.jpg)
