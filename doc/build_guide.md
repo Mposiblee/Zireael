@@ -49,9 +49,9 @@ All files are uploaded to the [JLCPCB](https://jlcpcb.com/) without any problems
 | Name                           | Qty  | AliExpress                                                                                                                                                 |
 |--------------------------------|------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | LiPo Battery 502020            |    2 | [Global - 2 pcs](https://aliexpress.ru/item/1005004771463980.html) [RU - 1 pcs](https://www.chipdip.ru/product/robiton-lp502020)                           |
-| Insert screw M2(OD3.5mm) L 2mm |   16 | [Global - 10 pcs](https://aliexpress.ru/item/1005006261832275.html)                                                                                        |                                                                      
-| Screw M2*4                     |   16 | [Black M2x4mm - 50 pcs](https://aliexpress.com/item/32806166548.html?sku_id=66702152887)                                                                   |
-| Screw M2*3                     |    4 | [Black M2x4mm - 50 pcs](https://aliexpress.com/item/32806166548.html?sku_id=66702152887)                                                                   |
+| Insert screw                   |   16 | [M2(OD3.5mm) L 2mm](https://aliexpress.ru/item/1005006261832275.html)                                                                                      |                                                                      
+| Screw                          |   16 | [Black M2x4mm - 50 pcs](https://aliexpress.com/item/32806166548.html?sku_id=66702152887)                                                                   |
+| Screw                          |    4 | [Black M2x3mm - 50 pcs](https://aliexpress.ru/item/32806166548.html?sku_id=66702152877)                                                                    |
 | Silicone Bumpers               | 8-10 | [100 pcs](https://aliexpress.com/item/32912066603.html)                                                                                                    |
 
 
