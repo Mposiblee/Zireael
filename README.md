@@ -27,4 +27,4 @@ Source Code: https://github.com/Mposiblee/dao-zmk-config
 
 ## Build guide
 
-https://github.com/Mposiblee/Zireael/blob/main/doc/buildguide.md
+https://github.com/Mposiblee/Zireael/blob/main/doc/build_guide.md
